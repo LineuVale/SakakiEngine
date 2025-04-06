@@ -1,4 +1,4 @@
-package sasaki
+package sakaki
 
 import rl "vendor:raylib"
 
@@ -12,7 +12,7 @@ Window :: struct {
 window := Window{
     width  = 1280,
     height = 720,
-    name   = "Sasaki Engine"
+    name   = "Sakaki Engine"
 }
 
 
