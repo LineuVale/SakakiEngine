@@ -1,1 +1,1 @@
-odin run ./engine
+odin run ./engine -debug
